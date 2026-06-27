@@ -9,6 +9,15 @@ Tenho conhecimento nessas linguagens:
   <li>Banco de Dados: MySQL </li>
   <li>Sistemas Operacionais: Windows </li>
 </ul>
+<ul>
+  
+  ![Java](https://img.shields.io/badge/java-773182.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+</ul>
+<picture>
+ <img alt="Gif" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif">
+</picture>
+
 <!--
 **maitecristine/maitecristine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
