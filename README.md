@@ -1,5 +1,14 @@
-## Hi there 👋
+<h2>🌸💫 Bem-vindo ao meu perfil 💫🌸</h2> 
 
+Atualmente estou estudando Técnico em Análise e Desenvolvimento de Sistemas na ETEC de Cerquilho
+Tenho conhecimento nessas linguagens:
+<ul>
+  <li>Linguagens: JavaScript</li>
+  <li>IDE: Visual  Studio Code </li>
+  <li>Frameworks: Bootstrap </li>
+  <li>Banco de Dados: MySQL </li>
+  <li>Sistemas Operacionais: Windows </li>
+</ul>
 <!--
 **maitecristine/maitecristine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
