@@ -1,21 +1,19 @@
+
 <h2>🌸💫 Bem-vindo ao meu perfil 💫🌸</h2> 
 
 Atualmente estou estudando Técnico em Análise e Desenvolvimento de Sistemas na ETEC de Cerquilho
 Tenho conhecimento nessas linguagens:
 <ul>
-  <li>🪻Linguagens: JavaScript 🪻</li>
-  <li> IDE: Visual  Studio Code </li>
-  <li>Frameworks: Bootstrap </li>
-  <li>Banco de Dados: MySQL </li>
-  <li>Sistemas Operacionais: Windows </li>
-</ul>
-<ul>
-  
-  ![Java](https://img.shields.io/badge/java-773182.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  
+  <li>✨Linguagens✨:⚡JavaScript 🌐Html</li>
+  <li>🎀IDE: Visual  Studio Code🎀</li>
+  <li>🌺Frameworks: Bootstrap🌺</li>
+  <li>💻Banco de Dados: 🐬MySQL💻</li>
+  <li>🌷Sistemas Operacionais: Windows🌷</li></span>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </ul>
 <picture>
- <img alt="Gif" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif">
+  <img alt="Gif" src="https://media1.tenor.com/m/z1YT2LePMWkAAAAC/tkthao219-peach.gif">
 </picture>
 
 <!--
